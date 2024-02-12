@@ -1,0 +1,6 @@
+#Archivos a ignorar
+.metadata
+.classpath
+.project
+.settings
+bin

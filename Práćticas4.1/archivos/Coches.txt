@@ -1,0 +1,3 @@
+Toyota,,Camry,,Plateado,,Gasolina,,30000
+Ford,,Focus,,Azul metálico,,Diésel,,45000
+Honda,,Civic,,Rojo,,Híbrido,,20000
